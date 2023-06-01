@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+/* body{
+  background-image: linear-gradient(rgb(1, 3, 38), rgb(229, 229, 240));
+  background-repeat: no-repeat;  
+  background-size: cover;
+  height: 640px;
+} */
+
+/* body{
+  background-image: url('./assets/site-bg.jpg');
+} */
